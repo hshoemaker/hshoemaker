@@ -1,4 +1,4 @@
-# Harry Shoemaker III
+# Harry Shoemaker
 ## Full-Stack Web Developer
 I'm software engineer from Dallas, TX, focusing on all aspects of web applications. I'm a husband, a father, a life-long learner, and I'm passionate about more things I can count. Web Development, Video Games, Anime, Music, Skateboarding, etc.
 
@@ -19,7 +19,7 @@ If you are interested in reading more? Here are some of my personal book recomen
  - *Don't Make Me Think, Revisited* by Steve Krug
 
 ## Connect with me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hshoemaker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harry-shoemaker-7a868057/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/5hadow5hoes//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hshoemaker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/harry-shoemaker-7a868057/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/5hadow5hoes/)  
 <!--
 **hshoemaker/hshoemaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
